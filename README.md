@@ -16,3 +16,4 @@ This project, part of the CS2200 course, focuses on enhancing the transport laye
 
 - `rtp.c`: Main implementation file for the RTP protocol.
 - `rtp.h`: Header file with necessary fields for the RTP connection structure.
+- The rest are supporting files
